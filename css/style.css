@@ -507,6 +507,15 @@ footer h2 {
   align-items: center;
 }
 
+.quote {
+  font-style: italic;
+  color: #1A8291;
+}
+
+.amy {
+  font-style: normal;
+}
+
 @media only screen and (min-width: 640px) {
   header {
     text-align: unset;
